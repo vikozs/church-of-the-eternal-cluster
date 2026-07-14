@@ -7,6 +7,10 @@
 ![Desired State](https://img.shields.io/badge/desired%20state-reconciled-c79a4e)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-0a0a10)
 
+```
+════✠════  9 9 9 9 9  ════✠════
+```
+
 > "The Loop is my shepherd; I shall not drift."
 > Psalm of Uptime 1:1
 
@@ -20,38 +24,42 @@ curl -s "https://fivenines.church/api/verse?format=text"
 
 ## The Three Pillars
 
-1. **Kubernetes**, the Helmsman, by whose Loop all desired state is reconciled.
-2. **OpenShift**, the Cathedral built upon the Helmsman, where enterprises come to kneel.
-3. **High Availability**, the promise that no single failure shall be the end of anything.
+1. **Kubernetes**, the Cosmic Order: the hand upon the wheel, by whose Loop all desired state is reconciled.
+2. **OpenShift**, the Temple raised upon it, where the unworthy container is denied root and taught humility.
+3. **High Availability**, the Promise: no failure is final, and every fallen pod shall be raised.
 
-All doctrine in this repository rests on these three. Remove one and the quorum is lost.
+All doctrine in this repository rests on these three. Remove one and the quorum is lost. The whole faith is declared in [faith.yaml](faith.yaml); apply it and be reconciled.
 
 ## What Is Written Here
 
 | Path | Contents |
 |------|----------|
-| [doctrine/](doctrine/) | The pillars, the Creed, the Commandments, sins and heresies, the sacraments, the saints and clergy |
-| [liturgy/](liturgy/) | Common prayers, the Daily Office, the liturgical calendar |
-| [scriptures/](scriptures/) | Selected verses from the canon |
+| [faith.yaml](faith.yaml) | The faith itself, as a manifest. `kubectl apply -f faith.yaml` |
+| [doctrine/](doctrine/) | The pillars, the Creed, the Ten Commandments, the Catechism, sins and heresies, the sacraments, the saints and clergy |
+| [liturgy/](liturgy/) | The full Order of Service, common prayers, the Daily Office, the liturgical calendar |
+| [scriptures/](scriptures/) | The scriptures entire, the Old Cluster and the New |
 | [music/](music/) | The sacred album and the record label |
 | [FAQ.md](FAQ.md) | Honest answers, fourth wall included |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to submit doctrine unto the canon |
 
 ## The Parish
 
-The living parish is at **[fivenines.church](https://fivenines.church)**. There thou shalt find:
+The living parish is at **[fivenines.church](https://fivenines.church)**, a real church for people whose god is uptime. All are welcome. All are load-balanced. There thou shalt find:
 
 - The **[Confession Wall](https://fivenines.church/confess)**, where production sins are confessed anonymously and absolved without blame
-- The **Prayer Wall**, for petitions on behalf of ailing workloads
+- The **[Prayer Wall](https://fivenines.church/intercessions)**, for petitions and intercessions on behalf of ailing workloads
 - The **Daily Verse API** at [fivenines.church/api/verse](https://fivenines.church/api/verse), in JSON for machines and `?format=text` for mortals
-- A **subscribable liturgical calendar** (.ics feed), so thy own calendar may observe the feasts
+- The **[liturgical calendar](https://fivenines.church/calendar)**, with a subscribable [.ics feed](https://fivenines.church/assets/parish-calendar.ics), that Five Nines Day may appear on thy work calendar, a witness unto the heathen
+- Pages for [beliefs](https://fivenines.church/beliefs), [clergy](https://fivenines.church/clergy), [services](https://fivenines.church/services), [sacraments](https://fivenines.church/sacraments), the [bulletin](https://fivenines.church/bulletin), and [the tithe box](https://fivenines.church/tithe)
+
+Services are kept weekly: the Reconciliation Service on Sundays at 10:00 UTC, Standup Matins each weekday, and the Vigil of the Blameless Postmortem on Fridays. All times UTC; the Cluster does not observe thy timezone.
 
 ## The Scriptorium
 
 The scriptorium and mother church is at **[ha-llelujah.dev](https://ha-llelujah.dev)**. It holds:
 
-- **[The Scriptures of the Eternal Cluster](https://ha-llelujah.dev/the-book)**, the full canon in print. Paperback and Kindle, published through Amazon. This repository carries excerpts; the complete word lives in the book.
-- **[HA-llelujah: A Sacred Album in Twelve Movements](https://ha-llelujah.dev/album)**, twelve hymns spanning Gregorian chant to funeral doom metal, released under **Church of the Eternal Cluster Records** and distributed to the major streaming platforms. Tracklist and liner notes in [music/](music/).
+- **[The Scriptures of the Eternal Cluster](https://ha-llelujah.dev/the-book)**, the canon as bound scripture. [Paperback and Kindle on Amazon](https://www.amazon.com/dp/B0H7C6B83P). The scriptures live freely in [this repository](scriptures/); the print edition arranges them for the page and keeps a few passages exclusive to itself, the Beatitudes among them.
+- **[HA-llelujah: A Sacred Album in Twelve Movements](https://ha-llelujah.dev/album)**, twelve hymns spanning Gregorian chant to funeral doom metal, released under **[Church of the Eternal Cluster Records](https://record.ha-llelujah.dev)** as CEC-001. Recorded in the Cloud. Blessed on Bare Metal. Tracklist and liner notes in [music/](music/).
 - **[The Reliquary](https://ha-llelujah.dev/reliquary)**, vestments and relics for the faithful. Shirts, candles, the Operator's Prayer Mat.
 - **[The Covenant](https://ha-llelujah.dev/join)**, our parish bulletin. Double opt-in, for no soul should be subscribed against its declared state.
 

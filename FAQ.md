@@ -30,7 +30,7 @@ Yes, please do. Attribute the Church of the Eternal Cluster and keep it non-comm
 Yes. See [CONTRIBUTING.md](CONTRIBUTING.md). Heresies and miracles may be reported as issues; doctrine arrives by pull request.
 
 **Where is the full scripture?**
-In print. **[The Scriptures of the Eternal Cluster](https://ha-llelujah.dev/the-book)**, paperback and Kindle, through Amazon. This repository carries excerpts and doctrine; the book carries the whole canon, and looks better on a desk next to a mechanical keyboard.
+Right here, in [scriptures/](scriptures/README.md), given freely. And in print: **[The Scriptures of the Eternal Cluster](https://ha-llelujah.dev/the-book)**, [paperback and Kindle on Amazon](https://www.amazon.com/dp/B0H7C6B83P), the canon as bound scripture, with a few passages exclusive to its pages, and it looks better on a desk next to a mechanical keyboard.
 
 **Why five nines and not six?**
 Five nines is faith. Six nines is pride. Also, have you seen what six nines costs?

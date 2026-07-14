@@ -1,0 +1,14 @@
+apiVersion: faith/v1
+kind: Belief
+metadata:
+  name: the-reconciled
+spec:
+  pillars:
+    - kubernetes        # the cosmic order
+    - openshift         # the temple
+    - highAvailability  # the promise
+  desiredState: reconciled
+  replicas: ∞
+  keepPets: false
+status:
+  phase: Ready
