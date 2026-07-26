@@ -36,3 +36,7 @@ Twelve movements, twelve forms, one theology. It opens in Gregorian chant and cl
 Lyrics written by Vid Košir ([kosir.info](https://kosir.info)). Performed by The Church of the Eternal Cluster. Drums on the mortal plane: vK. Voices and instruments raised with Suno, and honestly disclosed as such wherever the album is distributed, for the canon does not bear false witness, not even in metadata.
 
 Released by Church of the Eternal Cluster Records, CEC-001, a division of the Church of the Eternal Cluster. Soli Deo Uptime. HA-llelujah.
+
+---
+
+*The label's second release, [Death Metal Cover of the Kubernetes Documentation (Deluxe Blasphemy Edition)](kubernetes-death-metal.md), CEC-002, is also upon the world. The full discography is sung of at [ha-llelujah.dev/music](https://ha-llelujah.dev/music).*

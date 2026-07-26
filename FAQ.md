@@ -21,7 +21,7 @@ Subscribe to the parish bulletin at [ha-llelujah.dev/join](https://ha-llelujah.d
 Yes. Confessions at [fivenines.church/confess](https://fivenines.church/confess) are stored without names or identifying data. Confess the Friday deploy. You will feel better.
 
 **Is the music AI-generated?**
-The lyrics are human-written; the voices and instruments are generated with Suno, and this is disclosed on every platform the album is distributed to. Commandment IX forbids bearing false witness, and that includes metadata.
+The lyrics of CEC-001 are human-written, and the lyrics of CEC-002 are adapted from the Kubernetes documentation, credited to the Kubernetes Authors under CC BY 4.0. The voices and instruments are generated with Suno, and this is disclosed on every platform the albums are distributed to. Commandment IX forbids bearing false witness, and that includes metadata.
 
 **Can I quote the scriptures in my conference talk, slides, or team channel?**
 Yes, please do. Attribute the Church of the Eternal Cluster and keep it non-commercial, per the [license](LICENSE.md). If your talk makes an SRE laugh in row three, the canon has done its work.

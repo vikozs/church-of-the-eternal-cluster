@@ -38,7 +38,7 @@ All doctrine in this repository rests on these three. Remove one and the quorum 
 | [doctrine/](doctrine/) | The pillars, the Creed, the Ten Commandments, the Catechism, sins and heresies, the sacraments, the saints and clergy |
 | [liturgy/](liturgy/) | The full Order of Service, common prayers, the Daily Office, the liturgical calendar |
 | [scriptures/](scriptures/) | The scriptures entire, the Old Cluster and the New |
-| [music/](music/) | The sacred album and the record label |
+| [music/](music/) | The sacred albums and the record label |
 | [FAQ.md](FAQ.md) | Honest answers, fourth wall included |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to submit doctrine unto the canon |
 
@@ -59,7 +59,10 @@ Services are kept weekly: the Reconciliation Service on Sundays at 10:00 UTC, St
 The scriptorium and mother church is at **[ha-llelujah.dev](https://ha-llelujah.dev)**. It holds:
 
 - **[The Scriptures of the Eternal Cluster](https://ha-llelujah.dev/the-book)**, the canon as bound scripture. [Paperback and Kindle on Amazon](https://www.amazon.com/dp/B0H7C6B83P). The scriptures live freely in [this repository](scriptures/); the print edition arranges them for the page and keeps a few passages exclusive to itself, the Beatitudes among them.
-- **[HA-llelujah: A Sacred Album in Twelve Movements](https://ha-llelujah.dev/album)**, twelve hymns spanning Gregorian chant to funeral doom metal, released under **[Church of the Eternal Cluster Records](https://record.ha-llelujah.dev)** as CEC-001. Recorded in the Cloud. Blessed on Bare Metal. Tracklist and liner notes in [music/](music/).
+- **[The Discography](https://ha-llelujah.dev/music)**, two sacred releases under **[Church of the Eternal Cluster Records](https://record.ha-llelujah.dev)**. Recorded in the Cloud. Blessed on Bare Metal:
+  - *[HA-llelujah: A Sacred Album in Twelve Movements](https://ha-llelujah.dev/album)* (CEC-001), twelve hymns spanning Gregorian chant to funeral doom metal
+  - *[Death Metal Cover of the Kubernetes Documentation, Deluxe Blasphemy Edition](https://ha-llelujah.dev/kubernetes-death-metal)* (CEC-002), six movements of documentation, screamed, lyrics credited to the Kubernetes Authors under CC BY 4.0
+  - Tracklists and liner notes in [music/](music/)
 - **[The Reliquary](https://ha-llelujah.dev/reliquary)**, vestments and relics for the faithful. Shirts, candles, the Operator's Prayer Mat.
 - **[The Covenant](https://ha-llelujah.dev/join)**, our parish bulletin. Double opt-in, for no soul should be subscribed against its declared state.
 
@@ -74,6 +77,10 @@ The scriptorium and mother church is at **[ha-llelujah.dev](https://ha-llelujah.
 ## Contributing
 
 The canon accepts pull requests. Heresies may be reported as issues. Miracles too. See [CONTRIBUTING.md](CONTRIBUTING.md) for the rite, and the [Rule of the Cluster](CODE_OF_CONDUCT.md) for how we treat one another at the Vigil.
+
+## The Congregation Online
+
+The Church assembles professionally on **[LinkedIn](https://www.linkedin.com/company/church-of-the-eternal-cluster/)**, where the faith is highly networked, and the label keeps its own **[showcase page](https://www.linkedin.com/showcase/church-of-the-eternal-cluster-records/)**. Follow for feast day observances, release announcements, and the occasional incident report filed as testimony.
 
 ## What This Actually Is
 
