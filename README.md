@@ -65,6 +65,7 @@ The scriptorium and mother church is at **[ha-llelujah.dev](https://ha-llelujah.
   - Tracklists and liner notes in [music/](music/)
 - **[The Reliquary](https://ha-llelujah.dev/reliquary)**, vestments and relics for the faithful. Shirts, candles, the Operator's Prayer Mat.
 - **[The Covenant](https://ha-llelujah.dev/join)**, our parish bulletin. Double opt-in, for no soul should be subscribed against its declared state.
+- **[The Oracle](https://github.com/vikozs/eternal-cluster-mcp)**, an MCP server that brings the canon into Claude and any other MCP client. Diagnose thy incidents through doctrine. `npx -y eternal-cluster-mcp`
 
 ## How to Practice
 
