@@ -140,7 +140,7 @@ Kubernetes · OpenShift · High Availability
 - **[diagnose stuck PersistentVolumes, safely](https://pvdoctor.kosir.info/)**
 
 ## Let's connect
-- **[LinkedIn]([https://](https://www.linkedin.com/in/vidkosir/))**
+- **[LinkedIn](https://www.linkedin.com/in/vidkosir/)**
 ---
 
 <sub>An independent parody, built with love for everyone who has been paged at 03:00. Kubernetes is a trademark of the Linux Foundation. OpenShift is a trademark of Red Hat, Inc. Not affiliated with, nor endorsed by, either. They have real SLAs; we only have belief. HA-llelujah.</sub>
