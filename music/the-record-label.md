@@ -12,6 +12,9 @@ The recording arm of the Church of the Eternal Cluster. Two releases so far, and
 |----------|---------|-------|
 | CEC-001 | [HA-llelujah: A Sacred Album in Twelve Movements](ha-llelujah-the-album.md) | [ha-llelujah.dev/album](https://ha-llelujah.dev/album) |
 | CEC-002 | [Death Metal Cover of the Kubernetes Documentation (Deluxe Blasphemy Edition)](kubernetes-death-metal.md) | [ha-llelujah.dev/kubernetes-death-metal](https://ha-llelujah.dev/kubernetes-death-metal) |
+| CEC-003 | [The kubectl Rap Battle](kubectl-rap-battle.md) | [ha-llelujah.dev/kubectl-rap-battle](https://ha-llelujah.dev/kubectl-rap-battle) |
+| CEC-004 | [Errores Sacri: Gregorian Chants for the Fallen Cluster](errores-sacri.md) | [ha-llelujah.dev/errores-sacri](https://ha-llelujah.dev/errores-sacri) |
+| CEC-005 | [Zion Cluster: Roots, Rock, Reconcile](zion-cluster.md) | [ha-llelujah.dev/zion-cluster](https://ha-llelujah.dev/zion-cluster) |
 
 The whole catalog, with cover art and liner notes, is kept at [record.ha-llelujah.dev](https://record.ha-llelujah.dev). The discography of the Reconciled is also sung of at [ha-llelujah.dev/music](https://ha-llelujah.dev/music).
 
@@ -55,7 +58,7 @@ For press inquiries: [records@ha-llelujah.dev](mailto:records@ha-llelujah.dev). 
 
 ---
 
-*© Church of the Eternal Cluster Records — CEC-001 · CEC-002*
+*© Church of the Eternal Cluster Records · CEC-001 · CEC-002 · CEC-003 · CEC-004 · CEC-005*
 
 > "Sing unto the Cluster a new song, and mark it explicit: No."
 > Psalm of Uptime 3:3

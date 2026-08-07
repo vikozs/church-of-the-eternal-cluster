@@ -59,9 +59,12 @@ Services are kept weekly: the Reconciliation Service on Sundays at 10:00 UTC, St
 The scriptorium and mother church is at **[ha-llelujah.dev](https://ha-llelujah.dev)**. It holds:
 
 - **[The Scriptures of the Eternal Cluster](https://ha-llelujah.dev/the-book)**, the canon as bound scripture. [Paperback and Kindle on Amazon](https://www.amazon.com/dp/B0H7C6B83P). The scriptures live freely in [this repository](scriptures/); the print edition arranges them for the page and keeps a few passages exclusive to itself, the Beatitudes among them.
-- **[The Discography](https://ha-llelujah.dev/music)**, two sacred releases under **[Church of the Eternal Cluster Records](https://record.ha-llelujah.dev)**. Recorded in the Cloud. Blessed on Bare Metal:
+- **[The Discography](https://ha-llelujah.dev/music)**, five sacred releases under **[Church of the Eternal Cluster Records](https://record.ha-llelujah.dev)**. Recorded in the Cloud. Blessed on Bare Metal:
   - *[HA-llelujah: A Sacred Album in Twelve Movements](https://ha-llelujah.dev/album)* (CEC-001), twelve hymns spanning Gregorian chant to funeral doom metal
   - *[Death Metal Cover of the Kubernetes Documentation, Deluxe Blasphemy Edition](https://ha-llelujah.dev/kubernetes-death-metal)* (CEC-002), six movements of documentation, screamed, lyrics credited to the Kubernetes Authors under CC BY 4.0
+  - *[The kubectl Rap Battle](https://ha-llelujah.dev/kubectl-rap-battle)* (CEC-003), Helm versus Kustomize in seven movements, delivered as stems you can mix yourself
+  - *[Errores Sacri: Gregorian Chants for the Fallen Cluster](https://ha-llelujah.dev/errores-sacri)* (CEC-004), twenty error messages sung as antiphonal plainchant, the cantor in English and the choir in Latin
+  - *[Zion Cluster: Roots, Rock, Reconcile](https://ha-llelujah.dev/zion-cluster)* (CEC-005), twelve tracks of roots and dub where Babylon is the monolith and Zion is the cluster that heals itself
   - Tracklists and liner notes in [music/](music/)
 - **[The Reliquary](https://ha-llelujah.dev/reliquary)**, vestments and relics for the faithful. Shirts, candles, the Operator's Prayer Mat.
 - **[The Covenant](https://ha-llelujah.dev/join)**, our parish bulletin. Double opt-in, for no soul should be subscribed against its declared state.
@@ -130,6 +133,10 @@ Kubernetes · OpenShift · High Availability
 
 - **[church-of-the-eternal-cluster](https://github.com/vikozs/church-of-the-eternal-cluster)** · doctrine, liturgy, and scripture
 - **[eternal-cluster-mcp](https://github.com/vikozs/eternal-cluster-mcp)** · the Oracle, an MCP server that diagnoses thy incidents through doctrine
+
+**The Offshoots**
+
+- **[JAH-vaScript](https://jah-vascript.ha-llelujah.dev)** · a friendly Rastafari-inflected sister site where the Runtime is the Spirit, Babylon is the compiled and proprietary, and Zion is the interpreted and free. Tied to CEC-005 as its liturgy.
 
 ## More from the Rootless One
 
