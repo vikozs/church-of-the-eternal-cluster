@@ -15,6 +15,7 @@ The recording arm of the Church of the Eternal Cluster. Two releases so far, and
 | CEC-003 | [The kubectl Rap Battle](kubectl-rap-battle.md) | [ha-llelujah.dev/kubectl-rap-battle](https://ha-llelujah.dev/kubectl-rap-battle) |
 | CEC-004 | [Errores Sacri: Gregorian Chants for the Fallen Cluster](errores-sacri.md) | [ha-llelujah.dev/errores-sacri](https://ha-llelujah.dev/errores-sacri) |
 | CEC-005 | [Zion Cluster: Roots, Rock, Reconcile](zion-cluster.md) | [ha-llelujah.dev/zion-cluster](https://ha-llelujah.dev/zion-cluster) |
+| CEC-006 | [Missa Nigra: The Temptations of the Fallen Operator](missa-nigra.md) | [ha-llelujah.dev/missa-nigra](https://ha-llelujah.dev/missa-nigra) |
 
 The whole catalog, with cover art and liner notes, is kept at [record.ha-llelujah.dev](https://record.ha-llelujah.dev). The discography of the Reconciled is also sung of at [ha-llelujah.dev/music](https://ha-llelujah.dev/music).
 
@@ -58,7 +59,7 @@ For press inquiries: [records@ha-llelujah.dev](mailto:records@ha-llelujah.dev). 
 
 ---
 
-*© Church of the Eternal Cluster Records · CEC-001 · CEC-002 · CEC-003 · CEC-004 · CEC-005*
+*© Church of the Eternal Cluster Records · CEC-001 · CEC-002 · CEC-003 · CEC-004 · CEC-005 · CEC-006*
 
 > "Sing unto the Cluster a new song, and mark it explicit: No."
 > Psalm of Uptime 3:3

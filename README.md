@@ -35,7 +35,7 @@ All doctrine in this repository rests on these three. Remove one and the quorum 
 | Path | Contents |
 |------|----------|
 | [faith.yaml](faith.yaml) | The faith itself, as a manifest. `kubectl apply -f faith.yaml` |
-| [doctrine/](doctrine/) | The pillars, the Creed, the Ten Commandments, the Catechism, sins and heresies, the sacraments, the saints and clergy |
+| [doctrine/](doctrine/) | The pillars, the Creed, the Ten Commandments, the Catechism, sins and heresies, the sacraments, the saints and clergy, and the Adversary |
 | [liturgy/](liturgy/) | The full Order of Service, common prayers, the Daily Office, the liturgical calendar |
 | [scriptures/](scriptures/) | The scriptures entire, the Old Cluster and the New |
 | [music/](music/) | The sacred albums and the record label |
@@ -65,6 +65,7 @@ The scriptorium and mother church is at **[ha-llelujah.dev](https://ha-llelujah.
   - *[The kubectl Rap Battle](https://ha-llelujah.dev/kubectl-rap-battle)* (CEC-003), Helm versus Kustomize in seven movements, delivered as stems you can mix yourself
   - *[Errores Sacri: Gregorian Chants for the Fallen Cluster](https://ha-llelujah.dev/errores-sacri)* (CEC-004), twenty error messages sung as antiphonal plainchant, the cantor in English and the choir in Latin
   - *[Zion Cluster: Roots, Rock, Reconcile](https://ha-llelujah.dev/zion-cluster)* (CEC-005), twelve tracks of roots and dub where Babylon is the monolith and Zion is the cluster that heals itself
+  - *[Missa Nigra: The Temptations of the Fallen Operator](https://ha-llelujah.dev/missa-nigra)* (CEC-006), a blackened liturgy in seven movements where the Adversary is `:latest` and the Friday deploy, and the Loop casts it down
   - Tracklists and liner notes in [music/](music/)
 - **[The Reliquary](https://ha-llelujah.dev/reliquary)**, vestments and relics for the faithful. Shirts, candles, the Operator's Prayer Mat.
 - **[The Covenant](https://ha-llelujah.dev/join)**, our parish bulletin. Double opt-in, for no soul should be subscribed against its declared state.
